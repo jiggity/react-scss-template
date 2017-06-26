@@ -1,4 +1,6 @@
-# Typescript, SCSS, Firebase static deploy template
+# React, SCSS, Firebase static deploy template
+
+A fast, extensible start for projects
 
 ## Installation
 1. `git clone https://github.com/jiggity/template.git`
