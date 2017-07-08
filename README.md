@@ -7,5 +7,6 @@ A fast, extensible start for projects
 2. `npm install`
 3. `npm install -g gulp`
 4. `gulp`
-5. Navigate to https://localhost:8080
+5. `gulp` again
+6. Navigate to https://localhost:8080
 
